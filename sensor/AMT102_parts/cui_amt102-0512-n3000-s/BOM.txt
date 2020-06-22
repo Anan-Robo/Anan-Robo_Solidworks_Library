@@ -1,0 +1,3 @@
+3DX_CUI_Supplier: CUI, Inc
+3DX_CUI_Description: AMT10 Radial, Fixed Resolution, 512 PPR, 8 Index Pulses, 3 mm Bore, Standard, Incremental, Capacitive Modular Encoder
+3DX_CUI_Model Number: AMT102-0512-N3000-S
